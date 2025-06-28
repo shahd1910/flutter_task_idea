@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194891274006",
+    "project_id": "idea-concept",
+    "storage_bucket": "idea-concept.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194891274006:android:3de3ec29c82414a7556237",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_idea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOPXQC2APFLokhRjeSc4UffBfU1KKCU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
